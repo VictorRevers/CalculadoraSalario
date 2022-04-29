@@ -5,7 +5,7 @@ Calculadora de salários com  Windows Form .NET C#
 Elabore um programa de computador que efetue o cálculo do salário de um profissional horista. 
 O programa deve solicitar as horas trabalhadas, o valor da hora e o percentual de desconto para apresentar o salário bruto, o total de descontos e o salário líquido.
 
-# Arquivo Com as funcionalidades: 
+# Arquivo com as funcionalidades: 
 https://github.com/VictorRevers/CalculadoraSalario/blob/master/Cap02_Ex03/Form1.cs
 
 ```
