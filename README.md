@@ -8,6 +8,7 @@ O programa deve solicitar as horas trabalhadas, o valor da hora e o percentual d
 # Arquivo Com as funcionalidades: 
 https://github.com/VictorRevers/CalculadoraSalario/blob/master/Cap02_Ex03/Form1.cs
 
+'''
 private void button1_Click(object sender, EventArgs e)
 {
             float val_hora = float.Parse(textBox1.Text);
@@ -21,8 +22,8 @@ private void button1_Click(object sender, EventArgs e)
             label5.Text += "\n" +bruto.ToString("##,##0.00");
             label6.Text += "\n"+desconto.ToString("##,##0.00");
             label7.Text += "\n"+liquido.ToString("##,##0.00");
-
 }
+'''
         
  # Formulário:
  ![image](https://user-images.githubusercontent.com/60626825/165978556-8404dcde-d0a9-4858-a8d1-83908498a049.png)
